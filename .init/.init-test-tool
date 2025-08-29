@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/websocket-tester-647429-647438/websocket_tester_frontend"
+}
